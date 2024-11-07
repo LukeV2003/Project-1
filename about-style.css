@@ -1,0 +1,38 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f4f4f9;
+    background-image: url('https://th.bing.com/th/id/R.39b75ba75b31432f1c74509f3e4c6ecd?rik=QcOZHNmpmdbnzA&riu=http%3a%2f%2fwww.ryerson.ca%2fcontent%2fdam%2finternational%2fadmissions%2fIEO-IntLand-2220x1100-header.jpg&ehk=NgFkBjGd1uHB%2fvSVguMuRxxHHkYslkFprbNl8yd9pss%3d&risl=&pid=ImgRaw&r=0');
+    color: #2c3e50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .about-container {
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .about-title {
+    font-size: 32px;
+    color: #3498db;
+    margin-bottom: 20px;
+  }
+  
+  .about-content {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+  }
+  
+  .about-text {
+    margin: 0;
+  }
+  
